@@ -2,7 +2,7 @@
 
 ## Get started with machine learning
 
-1. install [3.6.6](https://www.python.org/downloads/).
+1. install [python 3.6.6](https://www.python.org/downloads/).
 
 2. run `python3` in terminal and make sure version matches downloaded version. If it does, type `ctrl D` to exit out of python.
 
